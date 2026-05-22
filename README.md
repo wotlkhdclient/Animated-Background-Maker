@@ -1,5 +1,7 @@
 # Animated Background Maker
 
+![](https://i.imgur.com/3BTstxu.png)
+
 ### What is this
 
 **ABGM** is an application that converts a video file into a set of **BLP2 (DXT1/DXT5)** textures compatible with **World of Warcraft: Wrath of the Lich King**. The resulting files are used as a frame-by-frame animated background in the in-game login screen.
